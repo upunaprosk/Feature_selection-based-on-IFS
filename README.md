@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the method for feature selection, demonstrated in [1].  
 
-Intuitionistic fuzzy sets are built for each attribute and, then, a quantitative characteristic is computed for further ranking of features.Detailed discription of the method and interpretation of the results is presented in ipynb file.
+Intuitionistic fuzzy sets are built for each attribute and, then, a quantitative characteristic is computed for further ranking of features. Detailed discription of the method and interpretation of the results is presented in ipynb file.
 
 All the visualizations (including the plotly.express ones) are availiable in Google Colaboratory.  
 <a href="https://githubtocolab.com/upunaprosk/Feature_selection-based-on-IFS/blob/main/IFS_algorithm.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
